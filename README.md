@@ -32,7 +32,7 @@ This project integrates a Fortnite bot that tracks player statuses with an iMess
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/fortnite-imessage-bot.git
+git clone https://github.com/Ddjjlll/fortnite-imessage-bot.git
 cd fortnite-imessage-bot
 ```
 
