@@ -1,0 +1,4 @@
+fortnitepy
+python-dotenv
+requests
+discord.py
